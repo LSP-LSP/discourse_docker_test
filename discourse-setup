@@ -111,7 +111,7 @@ check_IP_match() {
       echo
       echo                   ./launcher rebuild app
       echo
-      exit 1
+      ##exit 1
       ;;
     2)
       echo "Skipping port check."
